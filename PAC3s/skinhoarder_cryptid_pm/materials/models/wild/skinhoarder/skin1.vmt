@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/wild/skinhoarder/skin1"
+	"$surfaceprop" "Flesh"
+	"$nocull" 1
+	"$translucent" 1
+}

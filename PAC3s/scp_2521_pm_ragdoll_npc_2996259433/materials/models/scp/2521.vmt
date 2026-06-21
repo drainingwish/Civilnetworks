@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scp/2521"
+	"$bumpmap" "models/scp/2521_n"
+	"$nodecal" "1"
+
+	"$cloakpassenabled" "1"
+	"$cloakfactor" "0.95"
+	"$cloakcolortint" "[0 0 0]"
+	"$refractamount" "0"
+}
